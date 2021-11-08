@@ -6,6 +6,8 @@ public class Vampire extends Enemy{
         System.out.println(" I am feature 2");
         System.out.println(" I am feature 3");
         System.out.println("this is a  bugfix");
+        System.out.println(" I am feature 2");
+        System.out.println(" I am feature 3");
 
     }
 }
